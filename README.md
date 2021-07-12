@@ -66,7 +66,7 @@ python train.py
 
 浏览器输入：http://localhost:8097/ ，页面如下：
 
-<img src="__md__/image-20210712144051068.png" alt="image-20210712144051068" style="zoom:50%;" />
+<img src="__md__/image-20210712144051068.png" alt="image-20210712144051068" style="zoom:40%;" />
 
 如果不需要训练过程可视化，则将train.py中Config中的vis设置为False即可。
 
