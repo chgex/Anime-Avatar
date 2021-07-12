@@ -64,7 +64,7 @@ python train.py
 
 每过一定epoch，会自动保存模型和生成的图片。
 
-浏览器输入：http://localhost:8097/ ，页面如下：
+浏览器输入：`http://localhost:8097/` ，页面如下：
 
 <img src="__md__/image-20210712144051068.png" alt="image-20210712144051068" style="zoom:25%;" />
 
