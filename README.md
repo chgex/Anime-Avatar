@@ -64,15 +64,15 @@ python train.py
 
 每过一定epoch，会自动保存模型和生成的图片。
 
-浏览器输入：`http://localhost:8097/` ，页面如下：
+浏览器输入：http://localhost:8097/ ，页面如下：
 
-<img src="__md__/image-20210712144051068.png" alt="image-20210712144051068" style="zoom:25%;" />
+<img src="__md__/image-20210712144051068.png" alt="image-20210712144051068" style="zoom:45%;" />
 
 如果不需要训练过程可视化，则将train.py中Config中的vis设置为False即可。
 
 ### 3-生成图片
 
-生成器和判别器的权重文件下载：[netd-netd](链接: https://pan.baidu.com/s/1TNC1cwzLjdGOfU9U8WkV9g) （ 提取码: hdb9）。放在checkpoints文件夹下。
+生成器和判别器的权重文件下载：[netd-netd](链接: https://pan.baidu.com/s/1TNC1cwzLjdGOfU9U8WkV9g)，（ 提取码: hdb9）。放在checkpoints文件夹下。
 
 执行：
 
